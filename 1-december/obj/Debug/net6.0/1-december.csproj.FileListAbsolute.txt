@@ -1,0 +1,15 @@
+/home/kuba/code/advent-of-of-code-2021/1-december/obj/Debug/net6.0/1-december.csproj.AssemblyReference.cache
+/home/kuba/code/advent-of-of-code-2021/1-december/obj/Debug/net6.0/1-december.GeneratedMSBuildEditorConfig.editorconfig
+/home/kuba/code/advent-of-of-code-2021/1-december/obj/Debug/net6.0/1-december.AssemblyInfoInputs.cache
+/home/kuba/code/advent-of-of-code-2021/1-december/obj/Debug/net6.0/1-december.AssemblyInfo.cs
+/home/kuba/code/advent-of-of-code-2021/1-december/obj/Debug/net6.0/1-december.csproj.CoreCompileInputs.cache
+/home/kuba/code/advent-of-of-code-2021/1-december/bin/Debug/net6.0/1-december
+/home/kuba/code/advent-of-of-code-2021/1-december/bin/Debug/net6.0/1-december.deps.json
+/home/kuba/code/advent-of-of-code-2021/1-december/bin/Debug/net6.0/1-december.runtimeconfig.json
+/home/kuba/code/advent-of-of-code-2021/1-december/bin/Debug/net6.0/1-december.dll
+/home/kuba/code/advent-of-of-code-2021/1-december/bin/Debug/net6.0/ref/1-december.dll
+/home/kuba/code/advent-of-of-code-2021/1-december/bin/Debug/net6.0/1-december.pdb
+/home/kuba/code/advent-of-of-code-2021/1-december/obj/Debug/net6.0/1-december.dll
+/home/kuba/code/advent-of-of-code-2021/1-december/obj/Debug/net6.0/ref/1-december.dll
+/home/kuba/code/advent-of-of-code-2021/1-december/obj/Debug/net6.0/1-december.pdb
+/home/kuba/code/advent-of-of-code-2021/1-december/obj/Debug/net6.0/1-december.genruntimeconfig.cache
