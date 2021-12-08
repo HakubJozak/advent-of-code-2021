@@ -31,20 +31,8 @@ static int simpleIncreases(IEnumerable<string> lines)
 static void printQueue(IEnumerable<int> queue)
 {
     IEnumerable<string> strings = queue.Select(i => i.ToString());
-    Console.WriteLine($"({String.Join(",", strings)}) = {sumQueue(queue)}");
+    Console.WriteLine($"({String.Join(",", strings)}) = {queue.Sum()}");
 
-}
-
-static int sumQueue(IEnumerable<int> queue)
-{
-    int sum = 0;
-
-    foreach (int num in queue)
-    {
-        sum += num;
-    }
-
-    return sum;
 }
 
 static int windowIncreases(IEnumerable<string> lines)
@@ -56,15 +44,13 @@ static int windowIncreases(IEnumerable<string> lines)
 
     foreach (string line in lines)
     {
-        // printQueue(queue);
-
         if (i > 2)
         {
             queue.Dequeue();
         }
 
         queue.Enqueue(Convert.ToInt32(line));
-        var currentSum = sumQueue(queue);
+        var currentSum = queue.Sum();
 
         if (i > 2 && oldSum != null && currentSum > oldSum) {
              increasesCount++;
